@@ -21,7 +21,7 @@ The NLU requires the training data to be in the following JSON format:
     }
 ]
 `
-However, it's more likely that your training data will be in a .csv file. The script convert_csv_to_json.py, written by Corey Clemente, will convert the data to JSON format for you. 
+However, it's more likely that your training data will be in a .csv file. The script convert_csv_to_json.py, written by Corey Clemente (https://github.com/coreyclemente), will convert the data to JSON format for you. 
 
 ### Usage
 * Place the convert_csv_to_json.py file in the same directory as your .csv file.
