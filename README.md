@@ -4,7 +4,7 @@ This repository contains scripts and curl commands to make it easier to work wit
 ## Prerequisites
 * An IBM account with access to the Watson NLU.
 * Python installed, and a basic understanding of how to run Python commands
-* curl installed
+* cURL installed
 
 ## Convert Training Data from CSV to JSON
 The NLU requires the training data to be in the following JSON format:
